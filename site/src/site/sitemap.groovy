@@ -189,6 +189,20 @@ allEvents {
             </p>
         '''
     }
+    
+    event('Build Twitter with Groovy on Grails in 90 minutes') {
+        location 'Baku, Azerbaijan'
+        date 'November 14, 2015 11:00 AM'
+        url 'http://grailsbaku.com/'
+        logo ''
+        description '''
+            <p>
+            We are going to build Twitter with Groovy and Grails in 90 minutes.If you think it is impossible just join us !
+            </p>
+              <strong> Join Us </strong> to get more informed about Groovy and Grails.
+        '''
+    }
+    
     event('Groovy Grails eXchange 2015') {
         location 'London, United Kingdom'
         date 'December 14-15, 2015'
